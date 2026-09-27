@@ -56,12 +56,9 @@ ul {
 }
 
 .img-placeholder {
-    height: 300px;
-    width: 500px;
     background-color: #7393B3;
-    text-align: center;
-    flex-shrink: 1;
-    flex-grow: 0;
+    color:#E5E7EB;
+    padding: 75px 150px;
 }
 
 button {
