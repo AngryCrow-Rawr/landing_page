@@ -72,3 +72,33 @@ button {
     padding-right: 32px;
     padding-bottom: 6px;
 }
+
+.body {
+    margin: 50px;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 32px;
+}
+
+.body .title {
+    font-size: 36px;
+    color:#1F2937;
+    text-align: center;
+}
+
+.body .text {
+    color:#1F2937;
+}
+
+.body-content {
+    display: flex;
+    gap: 16px;
+    text-align: center;
+}
+
+.info-box {
+    padding: 50px;
+    border: 2px solid #7393B3;
+    border-radius: 8px;
+    margin: 16px;
+}
