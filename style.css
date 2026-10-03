@@ -118,3 +118,21 @@ button {
     text-align:end;
     font-weight: 600;
 }
+
+.action-time {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    margin: 75px 150px;
+    border-radius: 8px;
+    padding: 50px 100px;
+    align-items: center;
+}
+
+.action-time button {
+    font-size: 18px;
+}
+
+.action-time .title {
+    font-size: 32px;
+}
